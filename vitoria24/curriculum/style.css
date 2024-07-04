@@ -1,0 +1,148 @@
+body {
+  margin: 0%;
+  padding: 0%;
+  margin: 0 auto;
+  width: 80%;
+  background-color: #f4f4f4;
+}
+
+.container {
+  font-family: "Arial", sans-serif;
+  width: 800px;
+  width: 210mm;
+  height: 320mm;
+  margin: 50px auto;
+  border-radius: 100px;
+  background-color: #f4f4f4;
+  padding: 30px;
+}
+
+.foto{
+  width: 20%;
+  height: 15%;
+  margin-top: -24%;
+  margin-left:-4% ;
+  float: left;
+  position: relative;
+  overflow: hidden;
+  border: 3px solid rgb(3, 40, 88);
+}
+
+.line1{
+  width: 108%;
+  height: 6px;
+  margin-left: -4%;
+  background-color: #010f47;
+}
+
+.line2{
+  width: 108%;
+  height: 6px;
+  margin-left: -4%;
+  background-color: rgb(187, 206, 216);
+}
+
+.line3{
+  width: 108%;
+  height: 2px;
+  margin-left: -4%;
+  background-color: #010f47;
+}
+
+header {
+  text-align: justify;
+  margin-bottom: 0px;
+  margin-top: -6%;
+ }
+
+h1 {
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  font-weight: bold;
+  color: #011979;
+  margin: 20px;
+  font-size: 4em;
+}
+
+h2 {
+  font-family: 'Times New Roman', Times, serif;
+  color: #161616;
+  text-align: center;
+  margin: 20px;
+  font-size: 3em;
+}
+
+h3 {
+  font-family: 'Times New Roman', Times, serif;
+  text-align: left;
+  font-weight: bold;
+  color: #010f47; 
+  font-size: 1.8em;
+  margin: 10px;
+}
+
+h4 {
+  font-family: 'Times New Roman', Times, serif;
+  color: #010f47;
+  font-size: 1.8em;
+  margin: 10px;   
+}
+
+p {
+  text-align: justify;
+  font-size: 20px;
+}
+
+ul {
+  list-style: disc;
+  padding-left: 20px;
+}
+
+li {
+  font-size: 20px;
+  margin-bottom: 5px;
+}
+
+.section {
+  margin-bottom: 30px;
+}
+
+.information {
+  justify-content: space-between;
+  display: flex;
+  margin-bottom: 30px;
+  margin-top: -90%;
+}
+
+.information-item {
+  align-items: center;
+  width: 150px;
+  margin-top: 5%;
+}
+
+.information-item p {
+  margin-bottom: 5px;
+  display: block;
+}
+
+.social-media {
+  justify-content: space-between;
+  display: flex;
+  margin-top: 5%;
+}
+
+.social-media a {
+  text-decoration: none;
+  text-align: center;
+  color: #000000;
+  width: 150px;
+}
+
+.social-media a:hover {
+  color: #0f3353;
+}
+
+.container2 {
+  padding: 15px;
+  background-color: #09143f;
+}
